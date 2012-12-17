@@ -152,7 +152,7 @@
 				<artifactId>maven-license-plugin</artifactId>
 				<version>1.9.0</version>
 				<configuration>
-					<header>src/etc/license.txt</header>
+					<header>src/etc/License.txt</header>
 				</configuration>
 				<executions>
 					<execution>
